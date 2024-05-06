@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8951E1AD-A584-4973-B1AE-685A3561C5F0}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8951E1AD-A584-4973-B1AE-685A3561C5F0}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\HourlyWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\HourlyWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\SalariedWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E59E4F-84A8-4B42-AAE7-6709293E6E79}|4.1\\4.1.vcxproj|solutionrelative:4.1\\SalariedWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T13:59:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Source.cpp",
+              "RelativeDocumentMoniker": "4.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Source.cpp",
+              "RelativeToolTip": "4.1\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T13:47:00.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalariedWorker.cpp",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.cpp",
+              "RelativeDocumentMoniker": "4.1\\SalariedWorker.cpp",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.cpp",
+              "RelativeToolTip": "4.1\\SalariedWorker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T13:45:03.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalariedWorker.h",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.h",
+              "RelativeDocumentMoniker": "4.1\\SalariedWorker.h",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\SalariedWorker.h",
+              "RelativeToolTip": "4.1\\SalariedWorker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:39:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourlyWorker.cpp",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.cpp",
+              "RelativeDocumentMoniker": "4.1\\HourlyWorker.cpp",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.cpp",
+              "RelativeToolTip": "4.1\\HourlyWorker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T13:26:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourlyWorker.h",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.h",
+              "RelativeDocumentMoniker": "4.1\\HourlyWorker.h",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\HourlyWorker.h",
+              "RelativeToolTip": "4.1\\HourlyWorker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:21:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.cpp",
+              "RelativeDocumentMoniker": "4.1\\Employee.cpp",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.cpp",
+              "RelativeToolTip": "4.1\\Employee.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T13:11:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.h",
+              "RelativeDocumentMoniker": "4.1\\Employee.h",
+              "ToolTip": "C:\\Users\\yuriy.chyzhuk\\source\\repos\\4.1\\4.1\\Employee.h",
+              "RelativeToolTip": "4.1\\Employee.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:04:30.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
